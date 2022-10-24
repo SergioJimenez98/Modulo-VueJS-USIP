@@ -1,0 +1,59 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "nombreArea": "Sistemas",
+      "nombreEncargado": "Sergio",
+      "numFuncionarios": 2
+    },
+    {
+      "id": 2,
+      "nombreArea": "Finanzas",
+      "nombreEncargado": "Andres",
+      "numFuncionarios": 4
+    },
+    {
+      "nombreArea": "Legal",
+      "nombreEncargado": "Maria",
+      "numFuncionarios": "3",
+      "id": 4
+    }
+  ],
+  "activos": [
+    {
+      "clasificacion": "estante",
+      "modelo": "andino",
+      "marca": "bambu",
+      "estado": "nuevo",
+      "idArea": null,
+      "id": 2,
+      "areaNombre": "Sistemas"
+    },
+    {
+      "clasificacion": "computadora",
+      "modelo": "4560",
+      "marca": "dell",
+      "estado": "nuevo",
+      "idArea": null,
+      "id": 3,
+      "areaNombre": "Finanzas"
+    },
+    {
+      "clasificacion": "escritorio",
+      "modelo": "0109",
+      "marca": "glasmar",
+      "estado": "usado",
+      "idArea": null,
+      "id": 4,
+      "areaNombre": "Legal"
+    },
+    {
+      "clasificacion": "laptop",
+      "modelo": "356",
+      "marca": "hp",
+      "estado": "desuso",
+      "id": 5,
+      "areaNombre": "Legal"
+    }
+  ]
+}
